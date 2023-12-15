@@ -23,7 +23,7 @@
 ### 🎓 Education & Continuous Learning:
 
 - Committed to lifelong learning, continuously updating my skill set to keep pace with the evolving tech landscape.
-- 
+
 ### 🔍 Future Aspirations:
 
 - Eager to take on challenging projects that require innovative solutions and advanced data handling.
