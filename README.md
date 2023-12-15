@@ -1,4 +1,4 @@
-## Backend Developer & Data Engineer | Crafting Innovative Solutions with Data and Code
+### Backend Developer & Data Engineer | Crafting Innovative Solutions with Data and Code
 
 ### 🌐 About Me:
 - Greetings! I'm Fritz Henrique, a dedicated Backend Developer and Data Engineer with a rich blend of experience in data and software engineering. Over the past year, I have honed my skills in Python, Java, and PHP, focusing on developing scalable and efficient backend systems. My expertise lies in creating APIs that are not only robust but also enhance user experience, utilizing FastAPI and Symfony.
