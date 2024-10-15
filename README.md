@@ -1,34 +1,23 @@
-### Backend Developer & Data Engineer | Crafting Innovative Solutions with Data and Code
+# About Me
 
-### 🌐 About Me:
-- Greetings! I'm Fritz Henrique, a dedicated Backend Developer and Data Engineer with a rich blend of experience in data and software engineering. Over the past year, I have honed my skills in Python, Java, and PHP, focusing on developing scalable and efficient backend systems. My expertise lies in creating APIs that are not only robust but also enhance user experience, utilizing FastAPI and Symfony.
+I'm a software developer with a strong focus on Rust, always looking for ways to build fast, reliable, and scalable solutions. I’m passionate about backend development and love using technology to solve real-world problems, whether it’s automating tasks, optimizing performance, or building custom tools.
+## What I've Worked On:
 
-### 💡 Technical Proficiency:
+### Rust:
+  - Built WebSocket servers for real-time communication, ensuring speed and reliability.
+  - Created a personal CLI tool for server management, storing data locally to streamline everyday tasks.
+  - I leverage Rust's performance and safety features to develop efficient solutions in automation and beyond.
 
-- Languages: 
-  - Proficient in Python, Java, and PHP, embracing the power of coding to solve complex problems.
-- Frameworks & Libraries:
-  - Skilled in FastAPI and Symfony; committed to building responsive and maintainable applications.
-- Data Analysis & Visualization:
-  - Experienced with Pandas, Matplotlib, Seaborn, and OpenCV, transforming data into actionable insights.
-- Containerization & Cloud Services:
-  - Proficient in Docker, AWS Cloud, and Azure, ensuring scalable and secure environments.
-- Database Management:
-  - Adept in MySQL and Neo4j, focusing on optimized data storage and retrieval.
-- Version Control:
-  - Practiced in Git Flow, fostering effective team collaboration and project management.
-- API Development:
-  - Expertise in crafting RESTful APIs, facilitating seamless data exchange and integration.
+### Python:
+  - Developed fast, scalable APIs using FastAPI for real-world applications.
+  - Automated PDF data extraction with PyMuPDF (fitz), saving time and reducing manual work.
 
-### 🎓 Education & Continuous Learning:
+### Automation & Cloud:
+  - Automated workflows and integrated with AWS, making infrastructure management simpler and more efficient.
 
-- Committed to lifelong learning, continuously updating my skill set to keep pace with the evolving tech landscape.
+### Other Tools: 
+  - Experienced with Node.js, PostgreSQL, MySQL, and building APIs and distributed systems.
 
-### 🔍 Future Aspirations:
+Currently, I'm enhancing my Linux skills as I prepare for the CompTIA Linux+ certification, furthering my expertise in server administration and production environments.
 
-- Eager to take on challenging projects that require innovative solutions and advanced data handling.
-- Looking forward to collaborating with like-minded professionals to develop software that makes a significant impact.
-
-### 🔗 Let's Connect:
-
-- I'm open to collaborations, professional discussions, or any opportunity to share knowledge and experience in the field of data and software engineering.
+I’m always excited to take on new challenges where I can use my skills to create practical solutions—whether that’s designing APIs, developing custom tools, or automating tasks that make life easier.
