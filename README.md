@@ -21,3 +21,6 @@ I'm a software developer with a strong focus on Rust, always looking for ways to
 Currently, I'm enhancing my Linux skills as I prepare for the CompTIA Linux+ certification, furthering my expertise in server administration and production environments.
 
 I’m always excited to take on new challenges where I can use my skills to create practical solutions—whether that’s designing APIs, developing custom tools, or automating tasks that make life easier.
+
+
+[![ustbhuangyi's github stats](https://github-readme-stats.vercel.app/api?username=dev-fritz)](https://github.com/anuraghazra/github-readme-stats)
