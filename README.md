@@ -23,9 +23,9 @@ Currently, I'm enhancing my Linux skills as I prepare for the CompTIA Linux+ cer
 I’m always excited to take on new challenges where I can use my skills to create practical solutions—whether that’s designing APIs, developing custom tools, or automating tasks that make life easier.
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dev-fritz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-fritz&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dev-fritz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fritz&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
 </a>
